@@ -1,2 +1,4 @@
 User: Boris, phone: 33333333, date and time: 31.03.2020 at 10:00 am. Baber: .
 User: Katya, phone: 88888888, date and time: 01.04.2020 at 10:00 am. Baber: .
+User: Boris, phone: 77777777, date and time: 01.04.2020 at 10:00 am. Baber: , Color: #51b749 
+User: Boris, phone: 77777777, date and time: 01.04.2020 at 10:00 am. Baber: Макарыч, Color: #51b749 
